@@ -4,3 +4,6 @@ Section 01: scripts of a novel analysis pipeline for gene-level allelic read cou
 ![image](https://user-images.githubusercontent.com/29049113/189592627-c6603a2f-023e-49ef-bdc7-399b89934794.png)
 
 Section 02: scripts for differential gene expression analysis (DGE), differential allele-specific expression (DASE) and testing for convergence
+
+Reference:
+Haixiao Hu, Taylor Crow, Saghi Nojoomi, Aimee J Schulz, Juan M Estévez-Palmas, Matthew B Hufford, Sherry Flint-Garcia, Ruairidh Sawers, Ruben Rellan-Alvarez, Jeffrey Ross-Ibarra, Daniel E Runcie, Allele-specific expression reveals multiple paths to highland adaptation in maize, Molecular Biology and Evolution, 2022;, msac239, https://doi.org/10.1093/molbev/msac239
